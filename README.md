@@ -1,9 +1,11 @@
 # GUI-dla-Zespolow
-Gui dla Zespołów
+
 Jest to proste GUI zrobione w C# (.NET Framework). Projekt GUI to aplikacja WPF, do której dodane jest odwołanie do projektu aplikacji konsolowej. Pozwala na edycję informacji o zespołach.
-Żeby rozwiązanie działało trzeba w klasie MainWindow ustawić poprawną ścieżkę do pliku w folderze z projektem aplikacji konsolowej.
+
+W projekcie występują klasy abstrakcyjne, dziedziczenie, interfejsy własne i IEquatable, ICloneable, IComparable, serializacja binarna, serializacja do plików w formacie XML oraz deserializacja.
+
 1.	Główne okno wygląda tak i umożliwia nam edycję danych kierownika, przeglądanie danych wszystkich członków zespołu oraz ich dodawanie, usuwanie i sortowanie. Jesteśmy w stanie także przeszukać listę członków po ich funkcji w zespole.
-2.	
+
 ![image](https://user-images.githubusercontent.com/79854074/161454934-e6dab3d9-a307-4138-9c8f-394066421fd0.png)
 
 ![image](https://user-images.githubusercontent.com/79854074/161454936-15db29bf-f09d-4203-90cd-b644b8743202.png)
