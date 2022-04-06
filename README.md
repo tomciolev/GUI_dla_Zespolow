@@ -2,7 +2,7 @@
 
 Jest to proste GUI zrobione w C# (.NET Framework). Projekt GUI to aplikacja WPF, do której dodane jest odwołanie do projektu aplikacji konsolowej. Pozwala na edycję informacji o zespołach.
 
-W projekcie występują klasy abstrakcyjne, dziedziczenie, interfejsy własne i IEquatable, ICloneable, IComparable, serializacja binarna, serializacja do plików w formacie XML oraz deserializacja.
+W projekcie występują klasy abstrakcyjne, dziedziczenie, interfejsy własne i IEquatable, ICloneable, IComparable, serializacja binarna, serializacja do plików w formacie XML oraz deserializacja, LINQ oraz wyrażenia lambda.
 
 1.	Główne okno wygląda tak i umożliwia nam edycję danych kierownika, przeglądanie danych wszystkich członków zespołu oraz ich dodawanie, usuwanie i sortowanie. Jesteśmy w stanie także przeszukać listę członków po ich funkcji w zespole.
 
